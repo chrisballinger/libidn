@@ -21,7 +21,7 @@ build-aux/mdate-sh
 build-aux/missing
 build-aux/test-driver
 build-aux/texinfo.tex
-config.h
+# config.h
 config.h.in
 config.log
 config.status
@@ -379,9 +379,9 @@ lib/gl/libgnu.la
 lib/gl/stddef.h
 lib/gl/striconv.lo
 lib/gl/striconv.o
-lib/gl/string.h
+# lib/gl/string.h
 lib/gl/sys/
-lib/gl/unistr.h
+# lib/gl/unistr.h
 lib/gl/unistr/.deps/
 lib/gl/unistr/.dirstamp
 lib/gl/unistr/.libs/
@@ -396,7 +396,7 @@ lib/gl/unistr/u8-uctomb-aux.o
 lib/gl/unistr/u8-uctomb.lo
 lib/gl/unistr/u8-uctomb.o
 lib/gl/unistr/unistr
-lib/gl/unitypes.h
+# lib/gl/unitypes.h
 lib/gl/unused-parameter.h
 lib/gl/warn-on-use.h
 lib/gl/wchar.h
