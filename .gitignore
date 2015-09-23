@@ -498,7 +498,7 @@ lib/gltests/warn-on-use.h
 lib/gltests/wchar.h
 lib/idn-free.lo
 lib/idn-free.o
-lib/idn-int.h
+# lib/idn-int.h
 lib/idna.lo
 lib/idna.o
 lib/libidn.la
