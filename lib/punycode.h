@@ -87,7 +87,7 @@ extern "C"
 /* Public interface (would normally go in its own .h file): */
 
 #include <stddef.h>		/* size_t */
-#include <idn-int.h>		/* uint32_t */
+#include "idn-int.h"		/* uint32_t */
 
   enum punycode_status
   {
