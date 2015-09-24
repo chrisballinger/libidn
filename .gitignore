@@ -510,7 +510,7 @@ lib/profiles.lo
 lib/profiles.o
 lib/punycode.lo
 lib/punycode.o
-lib/rfc3454.c
+# lib/rfc3454.c
 lib/rfc3454.lo
 lib/rfc3454.o
 lib/strerror-idna.lo
@@ -527,7 +527,7 @@ lib/stringprep.lo
 lib/stringprep.o
 lib/tld.lo
 lib/tld.o
-lib/tlds.c
+# lib/tlds.c
 lib/tlds.lo
 lib/tlds.o
 lib/toutf8.lo
