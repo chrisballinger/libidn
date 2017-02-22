@@ -44,7 +44,8 @@
 
 # include <stddef.h>		/* size_t */
 # include <sys/types.h>		/* ssize_t */
-# include "idn-int.h"		/* uint32_t */
+// # include "idn-int.h"		/* uint32_t */
+# include <stdint.h>
 
 # ifdef __cplusplus
 extern "C"

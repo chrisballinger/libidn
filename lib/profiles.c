@@ -27,7 +27,7 @@
    the GNU Lesser General Public License along with this program.  If
    not, see <http://www.gnu.org/licenses/>. */
 
-#include <config.h>
+// #include <config.h>
 #include "stringprep.h"
 
 const Stringprep_profiles stringprep_profiles[] = {

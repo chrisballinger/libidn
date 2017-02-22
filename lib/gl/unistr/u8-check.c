@@ -15,10 +15,11 @@
    You should have received a copy of the GNU Lesser General Public License
    along with this program.  If not, see <http://www.gnu.org/licenses/>.  */
 
-#include <config.h>
+//#include <config.h>
 
 /* Specification.  */
-#include "unistr.h"
+//#include "unistr.h"
+#include <stdint.h>
 
 const uint8_t *
 u8_check (const uint8_t *s, size_t n)

@@ -1002,7 +1002,9 @@ stringprep_unichar_to_utf8 (uint32_t c, char *outbuf)
   return g_unichar_to_utf8 (c, outbuf);
 }
 
-#include <unistr.h>
+//#include <unistr.h>
+const uint8_t *
+u8_check (const uint8_t *s, size_t n);
 
 /**
  * stringprep_utf8_to_ucs4:
