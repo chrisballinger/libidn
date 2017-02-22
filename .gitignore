@@ -21,7 +21,7 @@ build-aux/mdate-sh
 build-aux/missing
 build-aux/test-driver
 build-aux/texinfo.tex
-config.h
+# config.h
 config.h.in
 config.log
 config.status
@@ -384,9 +384,9 @@ lib/gl/libgnu.la
 lib/gl/stddef.h
 lib/gl/striconv.lo
 lib/gl/striconv.o
-lib/gl/string.h
+# lib/gl/string.h
 lib/gl/sys/
-lib/gl/unistr.h
+# lib/gl/unistr.h
 lib/gl/unistr/.deps/
 lib/gl/unistr/.dirstamp
 lib/gl/unistr/.libs/
@@ -401,7 +401,7 @@ lib/gl/unistr/u8-uctomb-aux.o
 lib/gl/unistr/u8-uctomb.lo
 lib/gl/unistr/u8-uctomb.o
 lib/gl/unistr/unistr
-lib/gl/unitypes.h
+# lib/gl/unitypes.h
 lib/gl/unused-parameter.h
 lib/gl/warn-on-use.h
 lib/gl/wchar.h
@@ -506,7 +506,7 @@ lib/gltests/warn-on-use.h
 lib/gltests/wchar.h
 lib/idn-free.lo
 lib/idn-free.o
-lib/idn-int.h
+# lib/idn-int.h
 lib/idna.lo
 lib/idna.o
 lib/libidn.la
@@ -518,7 +518,7 @@ lib/profiles.lo
 lib/profiles.o
 lib/punycode.lo
 lib/punycode.o
-lib/rfc3454.c
+# lib/rfc3454.c
 lib/rfc3454.lo
 lib/rfc3454.o
 lib/strerror-idna.lo
@@ -535,7 +535,7 @@ lib/stringprep.lo
 lib/stringprep.o
 lib/tld.lo
 lib/tld.o
-lib/tlds.c
+# lib/tlds.c
 lib/tlds.lo
 lib/tlds.o
 lib/toutf8.lo
